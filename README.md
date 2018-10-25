@@ -1,0 +1,2 @@
+# sqlQury
+class sqlQuery
